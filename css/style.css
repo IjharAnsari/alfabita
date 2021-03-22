@@ -90,7 +90,8 @@ figure {
   transition: 0.5s; }
   @media screen and (max-width: 1200px) {
     #colorlib-aside {
-      width: 30%; } }
+      width: 30%; } 
+    }
   @media screen and (max-width: 768px) {
     #colorlib-aside {
       width: 270px;
@@ -350,7 +351,8 @@ body.offcanvas {
   overflow-x: hidden; }
   body.offcanvas #colorlib-aside {
     -moz-transform: translateX(0);
-    -webkit-transform: translateX(0);
+    -webkit-transform: translateX(0);www.alfabita.com
+
     -ms-transform: translateX(0);
     -o-transform: translateX(0);
     transform: translateX(0);
@@ -1235,7 +1237,7 @@ body.offcanvas {
     z-index: 1000;
   }
   .info {
-    font-size: 70px;
+    font-size: 60px;
     font-weight: bolder;
     letter-spacing: 3px;
     color: #FFC300;
